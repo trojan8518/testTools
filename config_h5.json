@@ -1,0 +1,13 @@
+{
+    "C_OUT": "E:/work-doc/update/aggameh5-2", 
+    "GIT": "http://10.66.73.88:3000/AGQJ/AGGameH5.git", 
+    "WEBROOT": "aggameh5", 
+    "ResDepot": "D:/Tools/Egret/ResDepot/ResDepot.exe", 
+    "PACKS": [
+        "plaza", 
+        "game"
+    ], 
+    "SOURCE": "E:/workspace/idea/AGQJ_H5_Land-2", 
+    "Model": "aggameh5", 
+    "OUT": "E:/work-doc/update/aggameh5"
+}

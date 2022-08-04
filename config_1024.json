@@ -1,0 +1,11 @@
+{
+    "C_OUT": "C:/Users/Administrator/Desktop/EXEGame/out_game_1024/bin-release/web/out",
+    "SOURCE": "C:/Users/Administrator/Desktop/EXEGame/out_game_1024",
+    "M_OUT":"C:/Users/Administrator/Desktop/out",
+    "ResDepot": "C:/Program Files/Egret/ResDepot/ResDepot.exe",
+    "PACKS": [
+        "redblack"
+    ],
+    "Model": "aggameh5",
+    "RES_NAME": "redblack"
+}

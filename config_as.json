@@ -1,0 +1,27 @@
+{
+    "C_OUT": "E:/work-doc/update/asgame-88", 
+    "GIT": "http://10.66.73.88:3000/AGQJ/ASGame.git", 
+    "SOURCE": "E:/workspace/idea/OdinWand", 
+    "ResDepot": "D:/Tools/Egret/ResDepot/ResDepot.exe", 
+    "PACKS": [
+        "global", 
+        "game", 
+        "gameBac", 
+        "gameDt", 
+        "poker", 
+        "poker1", 
+        "activity", 
+        "avater", 
+        "gameSHB", 
+        "gameROU", 
+        "gameNN", 
+        "gameRB", 
+        "gameAstz"
+    ], 
+    "WEBROOT": "asgame", 
+    "Model": "asgame", 
+    "OUT": "E:/work-doc/update/asgame",
+    "ResMvDir":[
+        "resource/ext_games"
+    ]
+}

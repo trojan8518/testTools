@@ -1,0 +1,11 @@
+{
+    "C_OUT": "C:/Users/Administrator/Desktop/EXEGame/out_game_forest/bin-release/web/out",
+    "SOURCE": "C:/Users/Administrator/Desktop/EXEGame/out_game_forest",
+    "M_OUT":"C:/Users/Administrator/Desktop/out",
+    "ResDepot": "C:/Program Files/Egret/ResDepot/ResDepot.exe",
+    "PACKS": [
+        "forest"
+    ],
+    "Model": "aggameh5",
+    "RES_NAME": "forest"
+}
